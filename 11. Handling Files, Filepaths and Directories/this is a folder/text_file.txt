@@ -1,0 +1,5 @@
+This replaces all text that we have changed in the `r+` mode just now. Once you have run this cell, go back to the r+ mode and run it. See how the content gets replaced from the beginning.this text has been appended.
+this is line 1
+this is line 2
+this is line 3
+this is line 4
